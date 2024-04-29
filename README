@@ -4,4 +4,4 @@
 
 This is an exporter that use data from twse and translate to prometheus metrics
 
-* Docker: docoker run -p 9090:9090 chaowen/twse-weight-exporter
+* Docker: docker run -p 8080:8080 chaowen/twse-weight-exporter
