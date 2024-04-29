@@ -1,0 +1,7 @@
+# TWSE Weight Exporter
+
+## 臺灣證券交易所發行量加權股價指數成分股暨市值比重指標
+
+This is an exporter that use data from twse and translate to prometheus metrics
+
+* Docker: docoker run -p 9090:9090 chaowen/twse-weight-exporter
